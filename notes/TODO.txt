@@ -1,0 +1,22 @@
+Done / WIP | TODO
+___________|_________________________________________
+           | Saving / Loading / Exporting / Importing
+           | Pan view around
+           | Better graphics
+           | Better connections
+           | Node system
+Done       | Create node w/ RMB
+           | Create node, when pulled connection off
+           | Delete top node w/ RMB
+           | Color for nodes
+           | Color for connections
+           | Grid
+           | Component system for nodes
+           | Copy / Paste node
+           | Copy / Paste bunch of nodes
+           | Comments
+           | Script selector
+           | Free memory when destroing node
+           | Move nodes
+
+
